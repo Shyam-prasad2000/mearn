@@ -1,0 +1,40 @@
+.row{
+    border: brown solid;
+    height: 500px;
+    width: 700px;
+    background-color: darkred;
+    position: relative;
+}
+.col{
+    height: 300px;
+    width: 100px;
+    border: darkviolet solid;
+    position:absolute;
+}
+.col-1{
+    position: absolute;
+    background-color: dimgrey;
+    
+}
+.col-2{ position: absolute;
+    background-color: rgb(116, 66, 233);
+    left: 100px;
+
+}
+.col-3{
+    position: absolute;
+    background-color: rgb(72, 233, 66);
+    left: 200px;
+}
+.col-4{
+    position: absolute;
+    background-color: rgb(233, 222, 66);
+    left: 300px;
+}
+body{
+    background-image: url(./godfather.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}

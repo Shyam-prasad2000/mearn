@@ -1,0 +1,123 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+div{
+    height: 200px;
+    width: 100px;
+   
+ 
+
+}
+#gray{
+    background-color: gray;
+    margin-left: 500px;
+}
+#g1{
+    background-color: rgb(33, 87, 33);
+    margin-left: 610px;
+    margin-top: -200px;
+}
+#g2{
+    background-color: rgb(118, 236, 118);
+    margin-left: 720px;
+    margin-top: -200px;
+}
+#g3{
+    background-color: green;
+    margin-left: 830px;
+    margin-top: -200px;
+}
+#g4{
+    background-color: ivory;
+    margin-left: 940px;
+    margin-top: -200px;
+}
+
+#r1{
+    background-color:orange ;
+    margin-left: 390px;
+        margin-top: 50px;
+}
+#r2{
+    background-color: orangered;
+    margin-left: 500px;
+    margin-top: -200px;
+}
+#r3{
+    background-color: plum;
+    margin-left: 610px;
+    margin-top: -200px;
+    
+}
+#r4{
+    background-color: rebeccapurple;
+    margin-left: 720px;
+    margin-top: -200px;
+}
+#r5{
+    background-color: royalblue;
+    margin-left: 830px;
+    margin-top: -200px;
+}
+#r6{
+    background-color: slateblue;
+    margin-left: 940px;
+    margin-top: -200px;
+}
+#r7{
+    background-color: slategrey;
+    margin-left: 1050px;
+    margin-top: -200px;
+}
+#q1{
+    background-color: cyan;
+    margin-left:280px ;
+    margin-top: 60px;
+
+}
+#q2{
+    background-color: darkseagreen;
+    margin-left: 390px;
+    margin-top: -200px;
+    
+}
+#q3{
+    background-color: goldenrod;
+    margin-left: 500px;
+    margin-top: -200px;
+}
+#q4{
+    background-color: hotpink;
+    margin-left: 610px;
+    margin-top: -200px;
+}
+#q5{
+    background-color: maroon;
+    margin-left: 720px;
+    margin-top: -200px;
+}
+#q6{
+    background-color: mediumturquoise;
+    margin-left: 830px;
+    margin-top: -200px;
+}
+#q7{
+    background-color: rgb(184, 223, 107);
+    margin-left: 940px;
+    margin-top: -200px;
+}
+#q8{
+    background-color: rgb(98, 75, 121);
+    margin-left: 1050px;
+    margin-top: -200px;
+
+}
+#q9{
+    background-color: rgb(123, 103, 253);
+    margin-left: 1160px;
+    margin-top: -200px;
+}

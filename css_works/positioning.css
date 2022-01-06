@@ -1,0 +1,21 @@
+.parent{
+    width: 50%;
+    height: 200px;
+    background-color: burlywood;
+    border: rgb(204, 0, 17) solid;
+    position: relative;
+    /* position:absalute; */
+}
+.child{
+    width:25% ;
+    height: 100px;
+    background-color: rgb(80, 221, 44);
+    border: rgb(204, 0, 17) solid;
+    position: absolute;
+    margin-left: 100%;
+}
+/* static
+ */
+ /* absalute */
+ 
+ /* relative - one is relative and one is absalute */

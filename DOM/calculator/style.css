@@ -1,0 +1,18 @@
+button{
+    width: 70px;
+    height: 70px;
+}
+#clear{
+    height: 50px;
+    width: 50px;
+}
+#display{
+    width: 150px; height: 50px;
+}
+#del{
+    height: 50px;
+    width: 50px;
+}
+button:hover{
+    background-color: aliceblue;
+}

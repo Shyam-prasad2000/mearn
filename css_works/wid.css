@@ -1,0 +1,14 @@
+div{
+    height: 400px;
+    width:30%;
+    background-color: blanchedalmond;
+    border: blue solid 3px;
+    float: left;
+
+}
+img{
+    width: 100%;
+}
+div img{
+    width: 100%;
+}

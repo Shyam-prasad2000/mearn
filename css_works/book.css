@@ -1,0 +1,21 @@
+div{
+    height: 600px;
+    width: 24%;
+    background-color: rgb(139, 133, 133);
+    border: rgb(0, 0, 0) solid 2px;
+    float: left;
+}
+ div img{
+    width: 75%;
+    height: 270px;
+    padding: 50px;
+}
+#mol{
+    margin-top: 39px;
+}
+#nalu{
+    margin-top: 39px;
+}
+#alc{
+    margin-top: 39px;
+}

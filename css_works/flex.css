@@ -1,0 +1,19 @@
+.row{
+    width: 700px;
+    height: 500px;
+    background-color: darkviolet;
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+    /* space-between
+    space-evenly */
+
+    
+
+}
+.col{
+    width: 100px;
+    height: 100px;
+    background-color: floralwhite;
+   
+}
